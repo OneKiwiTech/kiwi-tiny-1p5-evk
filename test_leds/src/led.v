@@ -1,5 +1,5 @@
 module led#(
-    parameter led_number = 34
+    parameter led_number = 35
 )
 (
     input sys_clk,

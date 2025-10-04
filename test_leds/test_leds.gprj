@@ -3,7 +3,7 @@
 <Project>
     <Template>FPGA</Template>
     <Version>5</Version>
-    <Device name="GW1N-1P5C" pn="GW1N-UV1P5QN48XFC7/I6">gw1n1p5c-020</Device>
+    <Device name="GW1N-1P5C" pn="GW1N-UV1P5QN48XC7/I6">gw1n1p5c-019</Device>
     <FileList>
         <File path="src/led.v" type="file.verilog" enable="1"/>
         <File path="src/led.cst" type="file.cst" enable="1"/>
